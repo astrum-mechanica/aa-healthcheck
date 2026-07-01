@@ -9,7 +9,7 @@ package = healthcheck
 translation_directory = $(package)/locale
 translation_template = $(translation_directory)/django.pot
 translation_file_relative_path = LC_MESSAGES/django.po
-git_repository = https://github.com/astrum-mechanica/$(appname)
+git_repository = https://github.com/swashman/$(appname)
 git_repository_issues = $(git_repository)/issues
 
 # Default goal

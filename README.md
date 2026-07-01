@@ -55,18 +55,18 @@ There are curently no migrations or static files
 
 [alliance auth]: https://gitlab.com/allianceauth/allianceauth "Alliance Auth"
 [alliance auth installation guide]: https://allianceauth.readthedocs.io/en/latest/installation/allianceauth.html "Alliance Auth installation guide"
-[automated tests on github]: https://github.com/astrum-mechanica/aa-healthcheck/actions/workflows/automated-checks.yml
-[badge: automated tests]: https://github.com/astrum-mechanica/aa-healthcheck/actions/workflows/automated-checks.yml/badge.svg "Automated Tests"
-[badge: code coverage]: https://codecov.io/gh/astrum-mechanica/aa-healthcheck/branch/master/graph/badge.svg "Code Coverage"
+[automated tests on github]: https://github.com/swashman/aa-healthcheck/actions/workflows/automated-checks.yml
+[badge: automated tests]: https://github.com/swashman/aa-healthcheck/actions/workflows/automated-checks.yml/badge.svg "Automated Tests"
+[badge: code coverage]: https://codecov.io/gh/swashman/aa-healthcheck/branch/master/graph/badge.svg "Code Coverage"
 [badge: code style: black]: https://img.shields.io/badge/code%20style-black-000000.svg "Code Style: black"
-[badge: license]: https://img.shields.io/github/license/astrum-mechanica/aa-healthcheck "License"
+[badge: license]: https://img.shields.io/github/license/swashman/aa-healthcheck "License"
 [badge: pre-commit]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "pre-commit"
-[badge: pre-commit.ci status]: https://results.pre-commit.ci/badge/github/astrum-mechanica/aa-healthcheck/master.svg "pre-commit.ci status"
+[badge: pre-commit.ci status]: https://results.pre-commit.ci/badge/github/swashman/aa-healthcheck/master.svg "pre-commit.ci status"
 [badge: supported django versions]: https://img.shields.io/pypi/djversions/aa-healthcheck?label=django "Supported Django Versions"
 [badge: supported python versions]: https://img.shields.io/pypi/pyversions/aa-healthcheck "Supported Python Versions"
 [badge: version]: https://img.shields.io/pypi/v/aa-healthcheck?label=release "Version"
 [black code formatter documentation]: http://black.readthedocs.io/en/latest/
-[codecov]: https://codecov.io/gh/astrum-mechanica/aa-healthcheck
-[license]: https://github.com/astrum-mechanica/aa-healthcheck/blob/master/LICENSE
-[pre-commit.ci status]: https://results.pre-commit.ci/latest/github/astrum-mechanica/aa-healthcheck/master "pre-commit.ci"
+[codecov]: https://codecov.io/gh/swashman/aa-healthcheck
+[license]: https://github.com/swashman/aa-healthcheck/blob/master/LICENSE
+[pre-commit.ci status]: https://results.pre-commit.ci/latest/github/swashman/aa-healthcheck/master "pre-commit.ci"
 [pypi]: https://pypi.org/project/aa-healthcheck/

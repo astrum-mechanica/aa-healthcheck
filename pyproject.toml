@@ -37,11 +37,11 @@ optional-dependencies.tests-allianceauth-latest = [
     "coverage",
     "django-webtest",
 ]
-urls.Changelog = "https://gitlab.com/astrum-mechanica/aa-healthcheck/-/blob/master/CHANGELOG.md"
-urls.Documentation = "https://gitlab.com/astrum-mechanica/aa-healthcheck/-/blob/master/README.md"
-urls.Homepage = "https://gitlab.com/astrum-mechanica/aa-healthcheck"
-urls.Source = "https://gitlab.com/astrum-mechanica/aa-healthcheck"
-urls.Tracker = "https://gitlab.com/astrum-mechanica/aa-healthcheck/-/issues"
+urls.Changelog = "https://gitlab.com/swashman/aa-healthcheck/-/blob/master/CHANGELOG.md"
+urls.Documentation = "https://gitlab.com/swashman/aa-healthcheck/-/blob/master/README.md"
+urls.Homepage = "https://gitlab.com/swashman/aa-healthcheck"
+urls.Source = "https://gitlab.com/swashman/aa-healthcheck"
+urls.Tracker = "https://gitlab.com/swashman/aa-healthcheck/-/issues"
 
 [tool.hatch]
 version.path = "healthcheck/__init__.py"

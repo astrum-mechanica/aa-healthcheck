@@ -12,4 +12,4 @@ __app_name__ = "AA healthcheck"
 __app_name_verbose__ = "AA healthcheck"
 __app_name_useragent__ = "aa-healthcheck"
 
-__github_url__ = f"https://github.com/astrum-mechanica/{__package_name__}"
+__github_url__ = f"https://github.com/swashman/{__package_name__}"
