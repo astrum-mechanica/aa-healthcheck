@@ -42,7 +42,7 @@ HEALTHCHECK_URL = "https://hc-ping.com/"  # Replace with your healthchek.io url
 if "healthcheck" in INSTALLED_APPS:
     # Run every 5 minutes
     CELERYBEAT_SCHEDULE["Healthcheck :: Heartbeat"] = {
-        "task": "skyhooks.tasks.update_skyhooks",
+        "task": "healthcheck.tasks.heartbeat",
         "schedule": crontab(minute="*/5"),
     }
 ```
